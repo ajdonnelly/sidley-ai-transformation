@@ -2,3 +2,6 @@
 *.pdf
 *.docx
 .DS_Store
+
+# Public work sample — allow this deck to publish
+!Sidley_AI_Adoption_Plan.pdf
