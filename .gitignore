@@ -1,0 +1,4 @@
+# Application documents — keep private
+*.pdf
+*.docx
+.DS_Store

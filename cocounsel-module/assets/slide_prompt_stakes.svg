@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 820" font-family="Inter, Arial, sans-serif">
+<rect width="1280" height="820" fill="#ffffff"/>
+<circle cx="70" cy="48" r="9" fill="none" stroke="#dc4405" stroke-width="3" stroke-dasharray="3 2"/><text x="90" y="54" font-size="17" font-weight="700" fill="#1a1a1a">CoCounsel</text><text x="210" y="54" font-size="16" fill="#6b7280">·  Deep Research  ·  Family Law Demo</text><line x1="64" y1="74" x2="1216" y2="74" stroke="#ececec" stroke-width="2"/>
+<text x="64" y="126" font-size="14.5" font-weight="800" letter-spacing="2.5" fill="#dc4405">PROMPTING · WHY IT MATTERS</text>
+<text x="64" y="166" font-size="31" font-weight="800" fill="#16140f">Your prompt decides your result</text>
+<text x="64" y="200" font-size="17" fill="#6b7280">CoCounsel is powerful, but its value depends on how you use it. The same tool, two very different outcomes.</text>
+
+<!-- RISK row -->
+<text x="64" y="252" font-size="13.5" font-weight="800" letter-spacing="2" fill="#9a9a95">THE RISK</text>
+<rect x="64" y="266" width="430" height="86" rx="14" fill="#f6f5f3" stroke="#e5e5e2" stroke-width="2"/>
+<text x="279" y="315" font-size="18" font-weight="700" fill="#4b4f52" text-anchor="middle">A vague or incomplete prompt</text>
+<text x="524" y="318" font-size="30" font-weight="800" fill="#b6b6b1" text-anchor="middle">&#8594;</text>
+<rect x="556" y="266" width="660" height="86" rx="14" fill="#f6f5f3" stroke="#e5e5e2" stroke-width="2"/>
+<text x="886" y="302" font-size="17" fill="#5b6166" text-anchor="middle">Off-target or misleading results &#8212;</text>
+<text x="886" y="328" font-size="17" fill="#5b6166" text-anchor="middle">wasted effort and costly mistakes</text>
+
+<!-- PAYOFF row -->
+<text x="64" y="404" font-size="13.5" font-weight="800" letter-spacing="2" fill="#dc4405">THE PAYOFF</text>
+<rect x="64" y="418" width="430" height="86" rx="14" fill="#ffffff" stroke="#dc4405" stroke-width="2.5"/>
+<text x="279" y="455" font-size="18" font-weight="700" fill="#16140f" text-anchor="middle">A clear, well-structured prompt</text>
+<text x="279" y="480" font-size="14.5" fill="#5b6166" text-anchor="middle">&#8212; with its output checked</text>
+<text x="524" y="470" font-size="30" font-weight="800" fill="#dc4405" text-anchor="middle">&#8594;</text>
+<rect x="556" y="418" width="660" height="86" rx="14" fill="#fbf3ef" stroke="#dc4405" stroke-width="2.5"/>
+<text x="886" y="468" font-size="18" font-weight="700" fill="#16140f" text-anchor="middle">Dependable, actionable answers you can rely on</text>
+
+<!-- callout -->
+<rect x="69" y="566" width="1152" height="72" rx="13" fill="#16140f" opacity="0.10"/><rect x="66" y="561" width="1152" height="72" rx="13" fill="#16140f" opacity="0.06"/><rect x="64" y="558" width="1152" height="72" rx="13" fill="#ffffff" stroke="#dc4405" stroke-width="2.5"/>
+<text x="640" y="590" font-size="17.5" font-weight="700" fill="#16140f" text-anchor="middle">Two skills close the gap: <tspan fill="#dc4405">craft clear prompts</tspan>, and <tspan fill="#dc4405">systematically check outputs</tspan>.</text>
+<text x="640" y="616" font-size="15.5" fill="#5b6166" text-anchor="middle">This lesson shows you how.</text>
+<text x="1216" y="810" font-size="11.5" fill="#b8bdc2" text-anchor="end">Illustrative UI mock for training · independent work sample, not affiliated with Thomson Reuters</text></svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 820" font-family="Inter, Arial, sans-serif">
+<rect width="1280" height="820" fill="#ffffff"/>
+<circle cx="70" cy="48" r="9" fill="none" stroke="#dc4405" stroke-width="3" stroke-dasharray="3 2"/><text x="90" y="54" font-size="17" font-weight="700" fill="#1a1a1a">CoCounsel</text><text x="210" y="54" font-size="16" fill="#6b7280">·  Deep Research  ·  Family Law Demo</text><line x1="64" y1="74" x2="1216" y2="74" stroke="#ececec" stroke-width="2"/>
+<text x="64" y="126" font-size="14.5" font-weight="800" letter-spacing="2.5" fill="#dc4405">PROMPTING · THE ICI FRAMEWORK</text>
+<text x="64" y="166" font-size="31" font-weight="800" fill="#16140f">Prompt with ICI</text>
+<text x="64" y="200" font-size="17" fill="#6b7280">CoCounsel works best when prompts are explicit and well-structured. Include all three: Intent, Context, Instruction.</text>
+
+<!-- CARD 1: Intent -->
+<rect x="64" y="244" width="368" height="326" rx="16" fill="#ffffff" stroke="#e7e9eb" stroke-width="2"/>
+<circle cx="248" cy="306" r="36" fill="#dc4405"/><text x="248" y="318" font-size="32" font-weight="800" fill="#fff" text-anchor="middle">I</text>
+<text x="248" y="374" font-size="24" font-weight="800" fill="#16140f" text-anchor="middle">Intent</text>
+<text x="248" y="406" font-size="16.5" fill="#5b6166" text-anchor="middle">your goal or purpose</text>
+<rect x="88" y="430" width="320" height="120" rx="10" fill="#fbf3ef" stroke="#f0d9cf" stroke-width="1.5"/>
+<text x="108" y="458" font-size="11.5" font-weight="800" letter-spacing="1.5" fill="#dc4405">EXAMPLE</text>
+<text x="248" y="486" font-size="14.5" font-style="italic" fill="#3f4144" text-anchor="middle">&#8220;I&#8217;m preparing to challenge an</text>
+<text x="248" y="508" font-size="14.5" font-style="italic" fill="#3f4144" text-anchor="middle">expert&#8217;s credibility.&#8221;</text>
+
+<!-- CARD 2: Context -->
+<rect x="456" y="244" width="368" height="326" rx="16" fill="#ffffff" stroke="#e7e9eb" stroke-width="2"/>
+<circle cx="640" cy="306" r="36" fill="#dc4405"/><text x="640" y="318" font-size="32" font-weight="800" fill="#fff" text-anchor="middle">C</text>
+<text x="640" y="374" font-size="24" font-weight="800" fill="#16140f" text-anchor="middle">Context</text>
+<text x="640" y="406" font-size="16.5" fill="#5b6166" text-anchor="middle">the background CoCounsel needs</text>
+<rect x="480" y="430" width="320" height="120" rx="10" fill="#fbf3ef" stroke="#f0d9cf" stroke-width="1.5"/>
+<text x="500" y="458" font-size="11.5" font-weight="800" letter-spacing="1.5" fill="#dc4405">EXAMPLE</text>
+<text x="640" y="482" font-size="14.5" font-style="italic" fill="#3f4144" text-anchor="middle">&#8220;The files are the expert&#8217;s prior</text>
+<text x="640" y="504" font-size="14.5" font-style="italic" fill="#3f4144" text-anchor="middle">testimony — med-mal, plaintiff</text>
+<text x="640" y="526" font-size="14.5" font-style="italic" fill="#3f4144" text-anchor="middle">side.&#8221;</text>
+
+<!-- CARD 3: Instruction -->
+<rect x="848" y="244" width="368" height="326" rx="16" fill="#ffffff" stroke="#e7e9eb" stroke-width="2"/>
+<circle cx="1032" cy="306" r="36" fill="#dc4405"/><text x="1032" y="318" font-size="32" font-weight="800" fill="#fff" text-anchor="middle">I</text>
+<text x="1032" y="374" font-size="24" font-weight="800" fill="#16140f" text-anchor="middle">Instruction</text>
+<text x="1032" y="406" font-size="16.5" fill="#5b6166" text-anchor="middle">the clear, specific action to take</text>
+<rect x="872" y="430" width="320" height="120" rx="10" fill="#fbf3ef" stroke="#f0d9cf" stroke-width="1.5"/>
+<text x="892" y="458" font-size="11.5" font-weight="800" letter-spacing="1.5" fill="#dc4405">EXAMPLE</text>
+<text x="1032" y="486" font-size="14.5" font-style="italic" fill="#3f4144" text-anchor="middle">&#8220;Flag every statement about the</text>
+<text x="1032" y="508" font-size="14.5" font-style="italic" fill="#3f4144" text-anchor="middle">surgery and the complications.&#8221;</text>
+
+<!-- plus signs -->
+<text x="444" y="316" font-size="30" font-weight="800" fill="#dc4405" text-anchor="middle">+</text>
+<text x="836" y="316" font-size="30" font-weight="800" fill="#dc4405" text-anchor="middle">+</text>
+
+<!-- callout -->
+<rect x="69" y="602" width="1152" height="54" rx="13" fill="#16140f" opacity="0.10"/><rect x="66" y="597" width="1152" height="54" rx="13" fill="#16140f" opacity="0.06"/><rect x="64" y="594" width="1152" height="54" rx="13" fill="#ffffff" stroke="#dc4405" stroke-width="2.5"/>
+<text x="640" y="628" font-size="17.5" font-weight="700" fill="#16140f" text-anchor="middle">Intent + Context + Instruction <tspan fill="#dc4405">&#8594;</tspan> sharper, more useful results, every time.</text>
+<text x="1216" y="810" font-size="11.5" fill="#b8bdc2" text-anchor="end">Illustrative UI mock for training · independent work sample, not affiliated with Thomson Reuters</text></svg>
